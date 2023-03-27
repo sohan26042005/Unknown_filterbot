@@ -3,7 +3,7 @@
   <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
   </p>
   <h1 align="center">
-    <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
+    <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Updates ⚡</b>
     </h1>
 
 # 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ
@@ -29,7 +29,7 @@
 - 🔥Fɪʟᴇ Uɴᴅᴇʀ Dᴇʟᴇᴛᴇ Bᴜᴛᴛᴏɴ
 - 🔥Rᴇɴᴅᴇʀ Sᴜᴩᴩᴏʀᴛ Aᴅᴅᴇᴅ
 - 🔥/alive Cᴏᴍᴍᴀɴᴅ Aᴅᴅᴇᴅ
-- 🔥Rᴇᴩᴏʀᴛ Tᴏ Aᴅᴍɪɴ
+- 🔥Updates ⚡ʀᴛ Tᴏ Aᴅᴍɪɴ
 - 🔥Nᴇᴡ / Cᴏᴍᴍᴀɴᴅs Aᴅᴅᴇᴅ
 - 🔥Tᴇʟᴇɢʀᴀᴩʜ Gᴇɴᴇʀᴀᴛᴏʀ
 - 🔥YT Vɪᴅᴇᴏ Dᴏᴡɴʟᴏᴀᴅᴇʀ
@@ -61,7 +61,7 @@
 
 ⚡ Fɪʀsᴛ Tɪᴍᴇ Oɴ Gɪᴛʜᴜʙ ﹛ Oᴩᴇɴ Sᴏᴜʀᴄᴇ ﹜ ⚡
 
-Fɪʀsᴛ Tɪᴍᴇ Tᴏ Aᴅᴅ Tʜɪs Fᴇᴀᴛᴜʀᴇ Oɴ Oᴩᴇɴ Sᴏᴜʀᴄᴇ Rᴇᴩᴏ
+Fɪʀsᴛ Tɪᴍᴇ Tᴏ Aᴅᴅ Tʜɪs Fᴇᴀᴛᴜʀᴇ Oɴ Oᴩᴇɴ Sᴏᴜʀᴄᴇ Updates ⚡
 
 
 Pᴏsᴛ Sʜᴏʀᴛɴᴇʀ Lɪɴᴋ Fᴇᴀᴛᴜʀᴇ 😗
@@ -74,12 +74,12 @@ Cᴀɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ ﹖ Sᴇᴇ SᴄʀᴇᴇɴSʜᴏᴛ 👇
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 
-<a href=https://github.com/TamilanBotsZ/PremiumFilter/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
+<a href=https://t.me/cyberstainbot/blob/Tamilans-Working-Branch/Instruction.pyyy>Follow This Instruction Before Depolying Heroku / Koyeb</a>
 
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/PremiumFilter">
+<a href="https://heroku.com/deploy?template=https://t.me/cyberstainbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
   </p>
@@ -107,7 +107,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/PremiumFilter">
+<a href="https://cloud.okteto.com/deploy?repository=https://t.me/cyberstainbot">
   <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
   </a>
   </p>
@@ -124,7 +124,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <p>
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
-git clone https://github.com/TamilanBotsZ/PremiumFilter
+git clone https://t.me/cyberstainbot
 cd AwesomeFilterPro
 go build .
 ./PremiumFilter
@@ -165,6 +165,6 @@ Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](htt
 
 - Pʟᴇᴀsᴇ Dᴏɴ'ᴛ Cʜᴀɴɢᴇ "Uᴘᴅᴀᴛᴇs" Bᴜᴛᴛᴏɴ Lɪɴᴋ
 
-- Iғ Yᴏᴜ Lɪᴋᴇ Tʜᴇ Rᴇᴩᴏ Mᴇᴀɴs Gɪᴠᴇ Sᴛᴀʀᴛ
+- Iғ Yᴏᴜ Lɪᴋᴇ Tʜᴇ Updates ⚡ Mᴇᴀɴs Gɪᴠᴇ Sᴛᴀʀᴛ
 
 - Mʏ 3ᴍᴏɴᴛʜ ᴏғ HᴀʀᴅWᴏʀᴋ </b>
