@@ -21,18 +21,18 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
-    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/moviesgiftbot>Movies Gift Bot</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/businesswithprince>Prince</a>"""
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/bongo_verse>Movies Bot</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/bongo_verse>Prince</a>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @bongo_verse
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/businesswithprince>Prince</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/bongo_verse>Prince</a>
 
 - & Updates ⚡ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
     SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @bongo_verse</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/businesswithprince>Prince</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/bongo_verse>Prince</a></b>
 
 - Updates ⚡ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
